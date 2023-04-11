@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KAVATIR </name>
-	      <url>http://http://65.0.129.8:9980/repository/hdfcbank-snapshot//</url>
+	      <url>http://http://65.0.129.8:9980/repository/hdfcbank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
