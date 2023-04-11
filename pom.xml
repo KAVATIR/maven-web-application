@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KAVATIR</name>
-	      <url>http://43.205.114.165:9980/repository/hdafcebank-release/</url>
+	      <url>http://65.0.129.8:9980/repository/hdafcebank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://43.205.114.165:9980/repository/hdafcebank-release/</url>
+	      <name>KAVATIR </name>
+	      <url>http://http://65.0.129.8:9980/repository/hdfcbank-snapshot//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
