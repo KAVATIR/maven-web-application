@@ -17,7 +17,7 @@
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Software Solutions, 
+		Matrix solutions, 
 		Martha Halli,
 		Hyderabad
 		+91-9951594494,
