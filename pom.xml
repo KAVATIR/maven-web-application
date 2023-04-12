@@ -97,13 +97,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>admin</name>
+	      <name>KAVATIR</name>
 	      <url>http://13.127.214.60:9980/repository/hdafcebank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>admin</name>
+	      <name>KAVATIR</name>
 	      <url>http://13.127.214.60:9980/repository/hdfcbank-snapshot/</url>
 	    </snapshotRepository>
 	    
