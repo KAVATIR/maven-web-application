@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://65.0.93.232:9000/</sonar.host.url>
+		<sonar.host.url>http://52.66.212.80:9000/</sonar.host.url>
                 <sonar.login>squ_73f165f4a73838df37296d5ed7179cb780f446b1</sonar.login>
 	
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KAVATIR</name>
-	      <url>http://13.127.155.18:9980/repository/hdafcebank-release/</url>
+	      <url>http://13.126.246.252:9980/repository/hdafcebank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KAVATIR</name>
-	      <url>http://13.127.155.18:9980/repository/hdfcbank-snapshot/</url>
+	      <url>http://13.126.246.252:9980/repository/hdfcbank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
