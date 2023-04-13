@@ -18,7 +18,7 @@
 	</span>
 	<span style="font-weight: bold;">
 		Matrix solutions, 
-		Martha Halli,
+		Uppal
 		Hyderabad
 		+91-9951594494,
 		devopstrainingbr@gmail.com
